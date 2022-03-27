@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/bin/Debug/net6.0/Encapsulation
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/bin/Debug/net6.0/Encapsulation.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/bin/Debug/net6.0/Encapsulation.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/bin/Debug/net6.0/Encapsulation.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/bin/Debug/net6.0/ref/Encapsulation.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/bin/Debug/net6.0/Encapsulation.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/ref/Encapsulation.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/Encapsulation/obj/Debug/net6.0/Encapsulation.genruntimeconfig.cache
